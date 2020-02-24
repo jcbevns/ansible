@@ -1,3 +1,6 @@
 - name: Install packages
-   apt: name=`[htop,vlc,neofetch]`
+  apt: name=
+      [htop,
+	vlc, 
+	neofetch]
   
