@@ -4,5 +4,10 @@
     - htop
     - vlc 
     - neofetch
-  
+    - net-tools
+    - xscreensaver
+    - xscreensaver-data-extra 
+    - xscreensaver-gl-extra
+    - pulseaudio
+    - 
   
